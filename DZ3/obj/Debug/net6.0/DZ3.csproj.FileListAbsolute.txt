@@ -1,0 +1,15 @@
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\bin\Debug\net6.0\DZ3.exe
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\bin\Debug\net6.0\DZ3.deps.json
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\bin\Debug\net6.0\DZ3.dll
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\bin\Debug\net6.0\DZ3.pdb
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.dll
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.pdb
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+G:\Git out\DZSeminarC3\DZSeminarC3.1\DZ3\obj\Debug\net6.0\ref\DZ3.dll
